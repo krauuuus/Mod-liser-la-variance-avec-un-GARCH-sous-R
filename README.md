@@ -1,2 +1,3 @@
 # Modeliser la variance d'une série avec un GARCH sous R
 Modélisation de la variance du Bitcoin avec un GARCH univarié dans R, avec code et données reproductibles.
+Le Code1 contient les lignes de code qui permettent l'importation des données et les estimations principales. Le Code2 contient les spécifications des modèles GARCH et des lois de distribution conditionnelles. Le Code2 peut être très utile pour toute autre série financière car il permet de faire ressortir les critères d'information AIC de chaque modèle conditionnellement aux lois de distribution utilisées, afin de choisir le modèle optimal.
